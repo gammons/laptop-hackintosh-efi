@@ -221,13 +221,13 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BAAnWQ==</data>
+				<data>CQClPg==</data>
 				<key>complete-modeset</key>
 				<data>AQAAAA==</data>
 				<key>complete-modeset-framebuffers</key>
 				<data>AAAAAAAAAAE=</data>
 				<key>device-id</key>
-				<data>CQClPg==</data>
+				<data>mz4AAA==</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
