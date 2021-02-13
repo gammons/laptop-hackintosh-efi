@@ -216,48 +216,28 @@
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>
-				FQAAAA==
-				</data>
+				<data>FQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>
-				BAAnWQ==
-				</data>
+				<data>BAAnWQ==</data>
 				<key>complete-modeset</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>complete-modeset-framebuffers</key>
-				<data>
-				AAAAAAAAAAE=
-				</data>
+				<data>AAAAAAAAAAE=</data>
 				<key>device-id</key>
-				<data>
-				FlkAAA==
-				</data>
+				<data>mz4AAA==</data>
 				<key>framebuffer-con1-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
-				<data>
-				AAgAAA==
-				</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-fbmem</key>
-				<data>
-				AACQAA==
-				</data>
+				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
-				<data>
-				AAAwAQ==
-				</data>
+				<data>AAAwAQ==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -814,7 +794,7 @@
 			<string>Optional</string>
 		</dict>
 		<key>Tools</key>
-    <array/>
+		<array/>
 	</dict>
 	<key>NVRAM</key>
 	<dict>
